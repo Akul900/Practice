@@ -128,6 +128,7 @@ int main()
         }
         input.close();
     }
+    cin.get();
     return 0;
 }
 
